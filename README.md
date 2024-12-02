@@ -11,8 +11,8 @@ Oi, me chamo Izadora, sou uma estudante apaixonada por tecnologia e entusiasta n
 
 ## Projetos
 
-- 💡 Primeiro trabalho da cadeira Algoritmos computacionais da faculdade
-
+- 💡 Alguns trabalhos da disciplina de Computação Cientifica da faculdade.
+- 
 
 
 Fique à vontade para acompanhar minha jornada de aprendizado. Vamos aprender juntos! 🚀
