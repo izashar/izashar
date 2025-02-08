@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Mundo Codificado! 👩‍💻
 
-Oi, me chamo Izadora, sou uma estudante apaixonada por tecnologia e entusiasta na área de programação. Este é meu espaço onde compartilho minha jornada de aprendizado e projetos iniciantes.
+Oi, me chamo Izadora, sou uma estudante apaixonada por tecnologia e na área de programação/cibersegurança. Este é meu espaço onde compartilharei minha jornada de aprendizado e projetos iniciantes.
 
 ## Sobre Mim
 
